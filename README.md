@@ -6,7 +6,7 @@
 
 <p align="left"> IdeaBlock is a blockchain-powered platform that allows any inventor or business to incontrovertibly
 prove that they conceived of and publicly disclosed an idea — precluding any other individual or
-business from later obtaining a patent on the idea — at a fraction of the cost of other traditional
+business from later protecting the idea for themselves — at a fraction of the cost of other traditional
 vehicles for IP protection.</p>
 
 ## Thank You
