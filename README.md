@@ -17,8 +17,6 @@ We encourage you to submit as many issues as you would like that detail anything
 
 You are essential to the long-term success of our business - we cannot thank you enough for taking the time to use IdeaBlock Beta and appreciate you taking the time out of your day to provide feedback to us to help us improve the application for everyone going forward.  Our users ARE IdeaBlock and we hope to have you as a user forever!
 
-(well technically if you upload anything at all you will be a user forever whether you like it or not, muahahahhahahah)*
-
 ## How to Provide Feedback
 
 For our beta period, we will be utilizing both [email](mailto:feedback@ideablock.io) and GitHub's issue-reporting feature to allow our beta users to submit feedback.
@@ -42,5 +40,3 @@ Please take time to carefully read the [Terms and Conditions](https://beta.ideab
 - [Twitter](https://www.twitter.com/ldeaBlock)
 - [Telegram](https://t.me/joinchat/AAAAAEYAmi5ZSU1pXMb_ug)
 - [Facebook](https://www.facebook.com/ldeaBlock)
-
-\* *Comment not officially approved or endorsed by the marketing department or our legal counsel ¯\\\_(ツ)\_/¯ - Imagine being that lame.*
