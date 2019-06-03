@@ -27,9 +27,10 @@ For our beta period, we will be utilizing both [email](mailto:feedback@ideablock
 
 1.  [Navigate to the Issues tab above](https://github.com/emsheets/patentshell/issues)
 2.  Click the "New Issue" button
-3.  Provide your feedback (Feel free to add screenshots!)
-4.  Click the "Submit new issue" button
-5.  Share IdeaBlock on your social media accounts! (optional)
+3.  Sign up/Log In with GitHub (if necessary)
+4.  Provide your feedback (Feel free to add screenshots!)
+5.  Click the "Submit new issue" button
+6.  Share IdeaBlock on your social media accounts! (optional)
 
 ## Disclaimer
 
